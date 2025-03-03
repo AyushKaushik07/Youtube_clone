@@ -12,7 +12,7 @@ A clone of YouTube Website using html and CSS
 - [x] - Used html and CSS
 - [x] - Organised architecture 
 - [ ] - implemented javascript
-- [ ] - used web frame works 
+- [ ] - used web frame works. 
       
 ## Preview of the website
 ![website](https://github.com/AyushKaushik07/Youtube_clone/assets/142044281/744af0bd-50f3-47db-8a40-4ac72503c8dd)
